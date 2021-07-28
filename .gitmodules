@@ -1,0 +1,6 @@
+[submodule "wow64-gate-hook\\modules\\Shion"]
+	path = wow64-gate-hook\\modules\\Shion
+	url = https://github.com/aphage/Shion.git
+[submodule "wow64-gate-hook\\modules\\phnt"]
+	path = wow64-gate-hook\\modules\\phnt
+	url = https://github.com/processhacker/phnt.git
